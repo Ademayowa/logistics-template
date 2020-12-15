@@ -67,7 +67,6 @@ nav .btn_1 {
 /* Hero start */
 .hero_padding {
   padding-bottom: 100px;
-  padding-left: 50px;
 }
 
 .hero h1 {
@@ -492,6 +491,21 @@ a {
   .footer p {
     text-align: left;
     margin-top: -25px;
+  }
+  .services_padding {
+    padding-top: 0;
+  }
+  .service_delivery_padding {
+    padding-top: 50px;
+  }
+  .companies_padding {
+    padding-left: 0;
+    padding-top: 50px;
+  }
+  .send_packages_padding,
+  .footer_padding,
+  .service_delivery_padding {
+    padding-left: 0;
   }
 }
 /* Footer end */
